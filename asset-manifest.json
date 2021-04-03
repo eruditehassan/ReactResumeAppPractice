@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactResumeAppPractice/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactResumeAppPractice/static/js/main.4e2f10a8.chunk.js",
+    "main.js.map": "/ReactResumeAppPractice/static/js/main.4e2f10a8.chunk.js.map",
+    "runtime-main.js": "/ReactResumeAppPractice/static/js/runtime-main.1bc5c738.js",
+    "runtime-main.js.map": "/ReactResumeAppPractice/static/js/runtime-main.1bc5c738.js.map",
+    "static/js/2.fe47758e.chunk.js": "/ReactResumeAppPractice/static/js/2.fe47758e.chunk.js",
+    "static/js/2.fe47758e.chunk.js.map": "/ReactResumeAppPractice/static/js/2.fe47758e.chunk.js.map",
+    "static/js/3.018b0d8b.chunk.js": "/ReactResumeAppPractice/static/js/3.018b0d8b.chunk.js",
+    "static/js/3.018b0d8b.chunk.js.map": "/ReactResumeAppPractice/static/js/3.018b0d8b.chunk.js.map",
+    "index.html": "/ReactResumeAppPractice/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactResumeAppPractice/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fe47758e.chunk.js.LICENSE.txt": "/ReactResumeAppPractice/static/js/2.fe47758e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bc5c738.js",
+    "static/js/2.fe47758e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4e2f10a8.chunk.js"
+  ]
+}
